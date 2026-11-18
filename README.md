@@ -29,6 +29,7 @@
 | **행사** | 2026 BigData Summer School (Snowflake) |
 | **팀** | Team **EVen** (4인) |
 | **기간** | 2026.08 |
+| **발표자료** | [📄 EVen_presentation.pdf](docs/EVen_presentation.pdf) (24쪽) |
 | **스택** | Snowflake (Snowpark · Dynamic Table · Model Registry · Streamlit in Snowflake) · Python · scikit-learn · XGBoost · LightGBM · CatBoost · SHAP |
 
 ## 💡 문제 정의
@@ -142,7 +143,8 @@
 │   ├── scratch_*.csv, *.xlsx        # 모델 스크립트 입력 및 결과 (소규모 집계본)
 ├── docs/
 │   ├── images/                      # 분석 차트
-│   └── slides/                      # 발표자료 발췌
+│   ├── slides/                      # 발표자료 발췌
+│   └── EVen_presentation.pdf        # 발표자료 전문
 └── requirements.txt
 ```
 
