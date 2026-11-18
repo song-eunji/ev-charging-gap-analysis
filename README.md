@@ -124,10 +124,6 @@
 <img src="docs/slides/21_business_model.png" width="70%" alt="비즈니스 모델" />
 </div>
 
-## ⚠️ 한계
-
-1. **표본 규모** — N = 246(양성 49개)로 소수 클래스가 작음 → 5-fold CV pooled + Youden's J로 전 모델을 동일 조건에서 비교
-2. **단일 시점 데이터** — 증설 속도·계절성 등 시간 추세 미반영 → Snowflake Task로 갱신 데이터를 재산출할 수 있도록 설계
 
 ## 📁 폴더 구조
 
