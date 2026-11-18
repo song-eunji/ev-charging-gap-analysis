@@ -29,7 +29,7 @@
 | **행사** | 2026 BigData Summer School (Snowflake) |
 | **팀** | Team **EVen** (4인) |
 | **기간** | 2026.08 |
-| **발표자료** | [📄 EVen_presentation.pdf](docs/EVen_presentation.pdf) (24쪽) |
+| **발표자료** | [📄 EVen_presentation.pdf](docs/EVen_presentation.pdf)  |
 | **스택** | Snowflake (Snowpark · Dynamic Table · Model Registry · Streamlit in Snowflake) · Python · scikit-learn · XGBoost · LightGBM · CatBoost · SHAP |
 
 ## 💡 문제 정의
